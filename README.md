@@ -9,4 +9,4 @@ Esse regex vai validar o email, verificando se é um caractere valido antes do @
 outro @, verifica se há espaços em branco depois do @ até o ., e se há um caractere após o .
 
 /^[^\d]{1,100}$/
-Este regex valida se o nome tem mais de 100 caracteres e se não contém numeros, 
+Este regex valida se o nome tem mais de 100 caracteres e se não contém numeros.
